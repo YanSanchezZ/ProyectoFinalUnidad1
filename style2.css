@@ -1,0 +1,32 @@
+body {
+    background-image: url(Imge/gamt.jpg);
+
+
+
+}
+
+
+
+
+.contenedor11 {
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #000000;
+    margin: 100px 200px;
+}
+
+.vide{ para borrar o hacer algo 
+    margin: 100px 50px;
+    background: #000000;
+    color: #ffffff;
+    display: flex;
+}
+.video12{
+    display: flex;
+    margin-top: 100px;
+}
+.txt1{
+    color: #ffffff;
+    background: #2b2929c5;
+    font-size: 40px;   
+}

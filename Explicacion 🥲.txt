@@ -1,0 +1,10 @@
+Entrega del trabajo de Yan Sanchez.
+ dentro del trabajo, existen 4 botones de redireccion de pagina "Inicio, series, peliculas y juegos" de los cuales al ser un esquema inicial de la pagina y por que me hizo falta tiempo tambien, solo estan habilitados 2 botones, el de "inicio y series", que equivaldrian a las 2 paginas de HTML que se pedian en las instrucciones del trabajo. En la pagina 2 anexe un video, pero no se si al final pude enviar la carpeta con dicho video, por elproblema de limite de peso que tienen las paginas. 
+
+Punto2. En la segunda pagina los botones de redireccion a mis redes sociales me falta el cambairle el color de las letras, pero igual como en la primera pagina, los 3 enlaces estan habilitados.
+
+Punto3. En los espacios que salen "por definir" o "por arreglar" es porque en estos apartados tendran un link de redireccion a otras paginas más, puesto que tengo pensado crear varias secciones dentro de la pag. 
+
+PD: cree 2 Styles dentro del vsc porque asi se me hacia un poquito más facil el ordenarlo, aunque aprezca mucho desorden, asi me entiendo 😅😅😅
+
+Agradezco la atencion y el tiempo que presto en leer esto 🥲🥲🥲🥲
